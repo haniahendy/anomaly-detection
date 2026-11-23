@@ -23,4 +23,4 @@ Isolation Forest is better here, but still misses over half of the anomalies and
 Synthetic data. `contamination` is set from the known anomaly rate, which you would not know in practice. No threshold tuning or time-series handling.
 
 ## Provenance
-Built with AI assistance as a learning/portfolio project.
+A learning and portfolio project.
